@@ -75,7 +75,7 @@ __Jira__
   * able to create projects and track their progress
 
 __Postman__
- * know how to build and run API tests
+ * can build and run API tests
    
 __Browser developer tools__
 
