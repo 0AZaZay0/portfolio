@@ -101,8 +101,8 @@ An intensive course in test automation with Robot Framework.
 ### Test cases and work in TestRail
 
 - The training webshop was used to create demo test cases
-  * Test case for checking the (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
-  * Test case for checking the (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
+  * Test case for checking the online store site (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1RVOFRerMtWylPVyLVgpMhMwtamoAcUuApcl6IQ6YW-A/edit?usp=sharing)
+  * Test case for checking the mobile banking (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1paENcf9ZU0yJT-UFWJY4LXDAAEX8oLAWwq2-vRqtPlY/edit?usp=sharing)
 
 - [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
   * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
