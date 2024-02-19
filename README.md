@@ -91,7 +91,7 @@ __Mind maps & diagrams__
 ## Courses
 
 __Quality Assurance Engineer__  
-*online courses by [GoIT](https://goit.global/ua/)  
+Online courses by [GoIT](https://goit.global/ua/)  
 An intensive course in manual testing .  
 [Link to the certificate](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)
 
