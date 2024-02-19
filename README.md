@@ -53,12 +53,12 @@ __Python fundamentals__
   * have theoretical knowledge
   * able to comprehend codes
 
-__C++ fundamentals___
+__C++ fundamentals__
   * have certain practical skills
   * confidently possess the theoretical base
   * able to write complicated programs 
  
-__C# fundamentals___
+__C# fundamentals__
   * have certain practical skills
   * confidently possess the theoretical base
   * able to comprehend codes
