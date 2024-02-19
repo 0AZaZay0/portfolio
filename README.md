@@ -11,16 +11,16 @@
 
 ## About me
 
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
+I am a positive thinker who possesses two sides of power. On the one hand, I'm organized, structured, and detail-oriented because I'm a software engineering student. On the other hand, due to my character, I like to make projects ideal or close to ideal.
 
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
+I received my bachelor's degree from the University and was involved in the development of a couple of small video game projects. The scope of my responsibilities was project testing, which involved testing project iterations.
 
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
+Now I want to use my research and analytical skills in software testing. I am now intensively learning techniques and tools by taking online courses and testing web applications built for educational purposes.
 
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+I will be very happy to apply the knowledge gained to test a working product and gain practical experience. This is an important step in my current career goal of becoming a software tester.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1tY6ieO8sSaMQfZ--Mcw_hGNfdneaUXr9/view?usp=sharing).
 
 ## Skills
 
